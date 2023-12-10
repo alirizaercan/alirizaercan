@@ -44,3 +44,5 @@ I am a driven and ambitious individual passionate about success. Currently pursu
 - Stoic Thought
 
 Feel free to connect and collaborate! Let's make amazing things happen together. 🚀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirizaercan)](https://github.com/anuraghazra/github-readme-stats)
