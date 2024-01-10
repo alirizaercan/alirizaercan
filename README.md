@@ -1,98 +1,88 @@
-# Hi there! 👋 I'm Ali Rıza Ercan.
+<!DOCTYPE html>
+<html lang="en">
 
-🔭 I’m currently working on Data Science.
-🌱 I’m currently learning and exploring the vast field of Data Science.
-👯 I’m looking to collaborate on Data Science projects.
-💬 Ask me about everything.
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>GitHub README</title>
+</head>
 
+<body style="background-color: #2d2d2d; color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
+    <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
 
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alirizaercann" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="alirizaercann" height="30" width="40" /></a></p>
+        <h1 align="center">Hi 👋, I'm Ali Rıza Ercan</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/GTK_logo.svg" alt="GTK" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-</p>
+        <h3 align="center">🔭 I’m currently working on Data Science.
+            🌱 I’m currently learning and exploring the vast field of Data Science.
+            👯 I’m looking to collaborate on Data Science projects.
+            💬 Ask me about everything.
+        </h3>
 
+        <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-## About Me
+        <h3 align="left">Connect with me:</h3>
+        <p align="left">
+            <a href="https://linkedin.com/in/alirizaercann" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="alirizaercann" height="30" width="40" /></a>
+        </p>
 
-I am a driven and ambitious individual passionate about success. Currently pursuing my studies in computer engineering, I am always eager to learn and improve. Beyond the technical realm, I am interested in management and entrepreneurship, showcasing my diverse skill set.
+        <h3 align="left">Languages and Tools:</h3>
+        <p align="left">
+            	<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+	    	<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/GTK_logo.svg" alt="GTK" width="40" height="40"/>
+	    	<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+            	<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+        </p>
 
-## Experience
+        <h3 align="left">Stars</h3>
+		<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirizaercan&hide_progress=true&theme=dark" alt="alirizaercan" />
 
-- Participated in two Erasmus Mobility Programs in Poland.
-- Studied at Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich University.
-- Interned at MetalMaker 3D, specializing in software development.
-- Actively involved as a Technology Team Member at GDSC KTO Karatay.
+	<p>&nbsp;</p>
 
-## Achievements
+	<p align="center">
+  		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&locale=en&theme=dark" alt="alirizaercan" />
+	</p>
 
-- Secured the fourth place in the Ayakta Yolcu Kalmasin project at Teknofest 2023.
+		<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Strengths
+	<h3 align="center">Statistics</h3>
 
-- Target-oriented
-- Team player
-- Excellent communication skills
-- Open to learning and development
-- Social
+	<div align="center">
+  	    <a href="https://github.com/alirizaercan">
+   	    	 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alirizaercan&theme=2077" height="180em" />
+    		<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirizaercan&theme=2077" height="180em" />
+    		<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirizaercan&theme=2077" height="180em" />
+    		<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alirizaercan&theme=2077" height="180em" />
+    		<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirizaercan&theme=2077" height="180em" />
+ 	   </a>
+	</div>
 
-## Goals
+		<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
-- Become an expert in computer engineering.
-- Develop skills in management and entrepreneurship.
-- Establish my own company.
-- Work and live in different parts of the world.
+	<p align="center">Feel free to connect and collaborate! Let's make amazing things happen together. 🚀</p>
 
-## Interests
+    </div>
 
-- Fitness
-- Football
-- Philosophy
-- Stoic Thought
+</body>
 
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirizaercan&hide_progress=true&theme=dark" alt=alirizaercan />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&locale=en&theme=dark" alt="alirizaercan" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/alirizaercan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alirizaercan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirizaercan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirizaercan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alirizaercan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirizaercan&theme=2077" height="180em" />
-</div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-Feel free to connect and collaborate! Let's make amazing things happen together. 🚀
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirizaercan)](https://github.com/anuraghazra/github-readme-stats)
+</html>
