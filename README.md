@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>GitHub README</title>
-</head>
-
-<body style="background-color: #2d2d2d; color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-
-    <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
 
         <h1 align="center">Hi 👋, I'm Ali Rıza Ercan</h1>
 
@@ -82,7 +68,3 @@
 	<p align="center">Feel free to connect and collaborate! Let's make amazing things happen together. 🚀</p>
 
     </div>
-
-</body>
-
-</html>
