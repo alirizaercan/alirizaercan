@@ -4,7 +4,6 @@
 🌱 I’m currently learning and exploring the vast field of Data Science.
 👯 I’m looking to collaborate on Data Science projects.
 💬 Ask me about everything.
-📫 Reach me on <div> <a href="https://www.linkedin.com/in/alirizaercann" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
