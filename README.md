@@ -43,13 +43,14 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirizaercan&hide_progress=true&theme=dark" alt="alirizaercan" />
 
-<p>&nbsp;</p>
+<div align="left">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirizaercan&hide_progress=true&theme=dark" alt="alirizaercan" />
+  
+  <p>&nbsp;</p>
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&locale=en&theme=dark" alt="alirizaercan" />
-</p>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&locale=en&theme=dark" alt="alirizaercan" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
