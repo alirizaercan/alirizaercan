@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Aliaaa Rıza Ercan</h1>
+<h1 align="center">Hi 👋, I'm Ali Rıza Ercan</h1>
 
 <h3 align="center">🔭 I’m currently working on Data Science.
 🌱 I’m currently learning and exploring the vast field of Data Science.
 👯 I’m looking to collaborate on Data Science projects.
-💬 Ask me about everything.
+💬 Ask me about everything e.
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
