@@ -75,10 +75,12 @@ Feel free to ask me about Data Science, Machine Learning, any of the technologie
 
 
 ### 📊 GitHub Statistics
-<p align="left">
+<div align="center">
+  <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirizaercan&theme=dark&layout=compact" alt="alirizaercan" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&theme=dark" alt="alirizaercan" />
-</p>
+  </p>
+</div>
 
 ### 🌟 Additional Statistics
 <div align="center">
