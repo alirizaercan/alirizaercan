@@ -46,8 +46,9 @@ Feel free to ask me about Data Science, Machine Learning, any of the technologie
 
 <h4>Data Visualization Tools</h4>
 <p align="left">
-    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
+    <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="40" height="40"/>
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/google_data_studio/google_data_studio-icon.svg" alt="Looker Studio" width="40" height="40"/>
 </p>
 
 <h4>Frameworks and Libraries</h4>
@@ -62,8 +63,7 @@ Feel free to ask me about Data Science, Machine Learning, any of the technologie
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/google_data_studio/google_data_studio-icon.svg" alt="Looker Studio" width="40" height="40"/>
-    <img src="https://seeklogo.com/images/V/vertex-ai-logo-58E6D4152E-seeklogo.com.png" alt="Vertex AI" width="40" height="40"/> <!-- Placeholder Image -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Artificial_intelligence_icon.svg" alt="Vertex AI" width="40" height="40"/>
 </p>
 
 <h4>Other Tools and Technologies</h4>
