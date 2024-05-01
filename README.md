@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali Rıza Ercan
 
-![Banner GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2EmBdxuRAHXBPZ6uNqRhAL&ust=1714678764844000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjr3qaa7YUDFQAAAAAdAAAAABAJ)  <!-- Replace URL_TO_YOUR_GIF with the actual URL to a gif that represents you -->
+![Banner GIF]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2EmBdxuRAHXBPZ6uNqRhAL&ust=1714678764844000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjr3qaa7YUDFQAAAAAdAAAAABAJ](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC))  <!-- Replace URL_TO_YOUR_GIF with the actual URL to a gif that represents you -->
 
 I'm a passionate Data Scientist and Technology Team Leader currently working on expanding my knowledge and applying my skills in real-world scenarios. With a strong background in computer engineering and a keen interest in management and entrepreneurship, I'm always on the lookout for new challenges and opportunities to grow.
 
