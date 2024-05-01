@@ -1,47 +1,86 @@
+## Welcome to My Page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
+
+<img src="/new_Day.gif" width="100%" alt="About Me GIF"/>
+
 # 👋 Hi, I'm Ali Rıza Ercan
 
-![Banner GIF]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2EmBdxuRAHXBPZ6uNqRhAL&ust=1714678764844000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjr3qaa7YUDFQAAAAAdAAAAABAJ](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC))  <!-- Replace URL_TO_YOUR_GIF with the actual URL to a gif that represents you -->
-
-I'm a passionate Data Scientist and Technology Team Leader currently working on expanding my knowledge and applying my skills in real-world scenarios. With a strong background in computer engineering and a keen interest in management and entrepreneurship, I'm always on the lookout for new challenges and opportunities to grow.
+I am a passionate Data Scientist and Technology Team Leader at GDSC KTO Karatay, focusing on Artificial Intelligence, Machine Learning, and Cloud Services. With a strong background in computer engineering and keen interest in management and entrepreneurship, I strive to apply my skills in meaningful projects and continuously seek new challenges and learning opportunities.
 
 ## 🔭 I’m currently working on
-- Enhancing my Data Science skills with practical projects and competitions.
-- Leading technological initiatives at GDSC KTO Karatay.
+- Enhancing my Data Science skills through practical projects and competitions.
+- Leading innovative tech initiatives that make a significant impact.
 
 ## 🌱 I’m currently learning
-- Advanced techniques in Machine Learning and Data Analysis.
-- Exploring new tools and frameworks to enhance my tech stack.
+- Advanced techniques in Machine Learning, Data Analysis, and Data Visualization.
+- Cloud computing solutions with Google Cloud and machine learning platforms like Vertex AI.
 
 ## 👯 I’m looking to collaborate on
 - Open-source Data Science projects.
-- Innovative tech projects that make a significant impact.
+- Projects that leverage AI to solve real-world problems.
 
 ## 💬 Ask me about
-- Anything related to Python, Data Science, or Football Analytics.
-- My experiences in international programs and competitions.
+- Python, Data Science, Machine Learning, and Cloud Computing.
 
-## 📫 How to reach me:
-- Connect with me on LinkedIn: [alirizaercann](https://www.linkedin.com/in/alirizaercann/)
+## 🛠 Technologies & Programming Languages I Use
 
-
-## 🚀 Languages and Tools:
-![Python](URL_TO_PYTHON_ICON) ![React](URL_TO_REACT_ICON) ![NodeJs](URL_TO_NODEJS_ICON) ![HTML](URL_TO_HTML_ICON) ![CSS](URL_TO_CSS_ICON) 
-![Pandas](URL_TO_PANDAS_ICON) ![Seaborn](URL_TO_SEABORN_ICON) ![Tensorflow](URL_TO_TENSORFLOW_ICON) ![Arduino](URL_TO_ARDUINO_ICON) ![Git](URL_TO_GIT_ICON)
-
-<!-- Replace URLs in the above line with actual URLs to icons representing each technology or tool -->
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <!-- ReactJS -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+  </a>
+  <!-- NodeJS -->
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  </a>
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/> 
+  </a>
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <!-- Looker Studio -->
+  <a href="https://datastudio.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_data_studio/google_data_studio-icon.svg" alt="Looker Studio" width="40" height="40"/>
+  </a>
+</p>
 
 ## 📊 My GitHub Statistics
 
-![Ali Rıza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&theme=radical" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirizaercan&layout=compact&theme=radical" width="400"/>
+    </td>
+  </tr>
+</table>
 
-## 🏅 Achievements
-- Fourth place in Ayakta Yolcu Kalmasin project at Teknofest 2023.
-- Active participation in iyzico Datathon and Kapsul Teknoloji Datathon.
-
-## 📚 Education
-- TEI - TUSAS Motor Schools
-- Google Cloud Data Analytics V2 BoostCamp
-- Python A-Z™: Data Science and Machine Learning
+## 📫 How to reach me:
+- Connect with me on LinkedIn: [alirizaercann](https://www.linkedin.com/in/alirizaercann/)
 
 ## 🎯 Goals
 - Become a recognized expert in Data Science.
