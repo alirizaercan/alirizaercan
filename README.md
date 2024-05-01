@@ -1,96 +1,59 @@
-## Welcome to My Page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
+<h1 align="center">Hi 👋, I'm Ali Rıza Ercan</h1>
 
-<img src="/new_Day.gif" width="100%" alt="About Me GIF"/>
+<h3 align="center">A passionate Data Scientist diving deep into the realms of AI and Machine Learning</h3>
 
-# 👋 Hi, I'm Ali Rıza Ercan
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-I am a passionate Data Scientist and Technology Team Leader at GDSC KTO Karatay, focusing on Artificial Intelligence, Machine Learning, and Cloud Services. With a strong background in computer engineering and keen interest in management and entrepreneurship, I strive to apply my skills in meaningful projects and continuously seek new challenges and learning opportunities.
+### 🔭 Working On
+I’m currently working on enhancing my skills in Data Science and exploring innovative applications of Machine Learning in real-world scenarios.
 
-## 🔭 I’m currently working on
-- Enhancing my Data Science skills through practical projects and competitions.
-- Leading innovative tech initiatives that make a significant impact.
+### 🌱 Learning
+I’m actively learning more about advanced Machine Learning models, Big Data technologies like Google BigQuery, and gaining expertise in cloud services with Google Cloud.
 
-## 🌱 I’m currently learning
-- Advanced techniques in Machine Learning, Data Analysis, and Data Visualization.
-- Cloud computing solutions with Google Cloud and machine learning platforms like Vertex AI.
+### 👯 Looking to Collaborate
+I’m looking to collaborate on Data Science projects, particularly those focused on predictive analytics and AI-driven technologies.
 
-## 👯 I’m looking to collaborate on
-- Open-source Data Science projects.
-- Projects that leverage AI to solve real-world problems.
+### 💬 Ask Me About
+Feel free to ask me about Data Science, Machine Learning, any of the technologies I use, or advice on project ideas and implementation.
 
-## 💬 Ask me about
-- Python, Data Science, Machine Learning, and Cloud Computing.
-
-## 🛠 Technologies & Programming Languages I Use
-
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <!-- C -->
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <!-- ReactJS -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
-  </a>
-  <!-- NodeJS -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-  </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/> 
-  </a>
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <!-- Looker Studio -->
-  <a href="https://datastudio.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_data_studio/google_data_studio-icon.svg" alt="Looker Studio" width="40" height="40"/>
-  </a>
+  <a href="https://linkedin.com/in/alirizaercann" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="alirizaercann" height="30" width="40" /></a>
 </p>
 
-## 📊 My GitHub Statistics
+<h3 align="left">🛠 Languages and Tools:</h3>
+<p align="left">
+  	<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Css" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&theme=radical" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirizaercan&layout=compact&theme=radical" width="400"/>
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Statistics
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirizaercan&theme=dark&layout=compact" alt="alirizaercan" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&theme=dark" alt="alirizaercan" />
+</p>
 
-## 📫 How to reach me:
-- Connect with me on LinkedIn: [alirizaercann](https://www.linkedin.com/in/alirizaercann/)
+### 🌟 Additional Statistics
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alirizaercan&theme=dracula" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirizaercan&theme=dracula" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirizaercan&theme=dracula" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alirizaercan&theme=dracula" height="180em" />
+</p>
 
-## 🎯 Goals
-- Become a recognized expert in Data Science.
-- Start my own tech company and work globally.
-- Develop impactful projects that foster cross-cultural understanding.
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
-## 🤔 Interests
-- Fitness, Football, and Football Analytics
-- Philosophy and Stoic Thought
+<h3 align="center">Feel free to connect and collaborate! Let's make amazing things happen together. 🚀</h3>
 
----
-
-### Let's connect and make amazing things happen together! 🌟
