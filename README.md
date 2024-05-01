@@ -58,17 +58,18 @@ Feel free to ask me about Data Science, Machine Learning, any of the technologie
 
 <h4>Databases and Cloud Services</h4>
 <p align="left">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Artificial_intelligence_icon.svg" alt="Vertex AI" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:513/1*aeXlwnOS3DvVHiMVgBZbpQ.png" alt="Vertex AI" width="40" height="40"/>
 </p>
 
 <h4>Other Tools and Technologies</h4>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQjYtYaRlHJw8PQHykEqGW1sptdUPUXVPeSefvcN1k4A&s" alt="Windows" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/GTK_logo.svg" alt="GTK" width="40" height="40"/>
 </p>
 
