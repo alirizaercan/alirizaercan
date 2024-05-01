@@ -2,7 +2,9 @@
 
 <h3 align="center">A passionate Data Scientist diving deep into the realms of AI and Machine Learning</h3>
 
-<img align="center" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif](https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif)">
+<p align="center">
+    <img alt="Coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
+</p>
 
 ### 🔭 Working On
 I’m currently working on enhancing my skills in Data Science and exploring innovative applications of Machine Learning in real-world scenarios.
