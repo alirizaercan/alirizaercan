@@ -40,7 +40,7 @@ Feel free to ask me about Data Science, Machine Learning, any of the technologie
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="SciPy" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" width="40" height="40"/>
     <img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-logo-v2-horizontal.svg" alt="statsmodels" width="40" height="40"/>
 </p>
 
@@ -48,7 +48,6 @@ Feel free to ask me about Data Science, Machine Learning, any of the technologie
 <p align="left">
     <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="40" height="40"/>
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/google_data_studio/google_data_studio-icon.svg" alt="Looker Studio" width="40" height="40"/>
 </p>
 
 <h4>Frameworks and Libraries</h4>
