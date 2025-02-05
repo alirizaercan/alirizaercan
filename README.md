@@ -8,26 +8,27 @@
 ---
 
 ## 👨🏻 About Me  
-🔹 Passionate about **Data Science, Data Engineering, and Data Analytics**  
-🔹 Experienced in **Building Scalable Data Pipelines & Predictive Analytics**  
-🔹 Exploring **Big Data, Cloud Technologies & MLOps and Advanced Analytics**  
+- Passionate about **Data Science**, **Data Engineering**, and **Data Analytics**  
+- Experienced in **Building Scalable Data Pipelines & Predictive Analytics**  
+- Exploring **Big Data, Cloud Technologies & MLOps and Advanced Analytics**  
 
 I strive to transform raw data into meaningful insights, optimizing workflows and enabling data-driven decision-making.  
 
 ## 👨‍💻 Current Focus  
-🔹 Developing expertise in Data Science, Data Engineering, and Analytics, with a focus on creating scalable data pipelines, optimizing data workflows, and extracting actionable insights from complex datasets.
+- Developing expertise in Data Science, Data Engineering, and Analytics, with a focus on creating scalable data pipelines, optimizing data workflows, and extracting actionable insights from complex datasets.
 
 ## 📚 Ongoing Learning  
-🔹 Expanding knowledge in **Big Data Technologies** including **Google BigQuery** and **Apache Spark**.  
-🔹 Gaining proficiency in **Cloud Data Platforms** such as **Google Cloud** and **AWS**.
-🔹 Exploring **advanced data modeling techniques** to enhance decision-making and operational efficiency in data-driven applications.
+- Expanding knowledge in **Big Data Technologies** including **Google BigQuery** and **Apache Spark**.  
+- Gaining proficiency in **Cloud Data Platforms** such as **Google Cloud** and **AWS**.  
+- Exploring **advanced data modeling techniques** to enhance decision-making and operational efficiency in data-driven applications.
+
 
 ## 🤝 Collaboration Opportunities  
-🔹 Seeking collaboration on **Data Science and Analytics projects**, particularly those involving **data processing**, **business intelligence**, and **predictive analytics** to develop impactful, data-driven solutions. 
+- Seeking collaboration on **Data Science and Analytics projects**, particularly those involving **data processing**, **business intelligence**, and **predictive analytics** to develop impactful, data-driven solutions. 
 
 ## 🙋🏻‍♂️ Specializations and Expertise  
-🔹 Expertise in **Data Science**, **Data Engineering**, **ETL processes**, **SQL optimization**, and **Business Intelligence tools**.
-🔹 Passionate about best practices in **data-driven decision-making** and how to optimize data workflows to achieve superior results.
+- Expertise in **Data Science**, **Data Engineering**, **ETL processes**, **SQL optimization**, and **Business Intelligence tools**.
+- Passionate about best practices in **data-driven decision-making** and how to optimize data workflows to achieve superior results.
 
 
 # 💻 Skills and Tools
@@ -56,7 +57,7 @@ I strive to transform raw data into meaningful insights, optimizing workflows an
 <p align="left">
     <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="40" height="40"/>
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Data_Studio_Logo.png" alt="Looker Studio" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="Looker Studio" width="40" height="40"/>
 </p>
 
 ### Frameworks & Libraries
@@ -72,35 +73,35 @@ I strive to transform raw data into meaningful insights, optimizing workflows an
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="MsSQL" width="40" height="40"/>
-    <img src="https://supabase.com/images/logo-dark.svg" alt="Supabase" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+    <img src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" alt="Supabase" width="40" height="40"/>
 </p>
 
 ### Other Tools & Technologies
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Windows_logo_%282012%E2%80%932021%29.svg/1200px-Microsoft_Windows_logo_%282012%E2%80%932021%29.svg.png" alt="Windows" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Trello-logo-white.png" alt="Trello" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="Selenium" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/BeautifulSoup_Logo.svg" alt="BeautifulSoup" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Raspberry_Pi_Logo.svg/600px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" width="40" height="40"/>
+    <img src="https://app.matatika.com/assets/images/datasource/tap-beautifulsoup.png" alt="BeautifulSoup" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cb/Raspberry_Pi_Logo.svg/1603px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📊 GitHub Statistics
-<p align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&theme=dark" alt="GitHub Stats"/>
+<p align="center">
+    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
+
 
 ---
 
 ## 🌟 Additional Statistics
-<p align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirizaercan&theme=dark&layout=compact" alt="Top Languages"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alirizaercan&theme=dracula" height="180em"/>
+<p align="center">
+    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirizaercan&theme=dark&layout=compact" alt="Top Languages"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alirizaercan&theme=dark&layout=compact" height="240em"/>
 </p>
 
 ---
