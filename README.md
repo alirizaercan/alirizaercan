@@ -92,7 +92,7 @@ I strive to transform raw data into meaningful insights, optimizing workflows an
 
 ## 📊 GitHub Statistics
 <p align="center">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    <img height="240em" src="https://github-readme-stats.vercel.app/api?username=alirizaercan&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 
